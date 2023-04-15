@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Golosovanie</string>
+    <string name="name_first_cmd">سجق في عجينة</string>
+    <string name="text_in_btn">يغرق في العجين</string>
+    <string name="txt_btn_sousage">ارتشف النقانق</string>
+    <string name="txt_testo">عجينة سجق</string>
+</resources>

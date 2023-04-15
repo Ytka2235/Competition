@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_img">150dp</dimen>
+    <dimen name="height_img">150dp</dimen>
+    <dimen name="txt_size_sousages">20sp</dimen>
+    <dimen name="width_btn">137dp</dimen>
+    <dimen name="heigth_btn">42dp</dimen>
+    <dimen name="size_txt_btn_sousage">9sp</dimen>
+    <dimen name="width_img_testo">150dp</dimen>
+    <dimen name="height_img_testo">150dp</dimen>
+    <dimen name="btn_width_testo">137dp</dimen>
+    <dimen name="btn_height_testo">42dp</dimen>
+    <dimen name="txt_size_btn_testo">9sp</dimen>
+    <dimen name="size_txt_btn_testo">20sp</dimen>
+</resources>

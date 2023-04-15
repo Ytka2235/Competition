@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Golosovanie</string>
+    <string name="name_first_cmd">Сосиска в тесте</string>
+    <string name="text_in_btn">топи за тесто</string>
+    <string name="txt_btn_sousage">Топи за сосиску</string>
+    <string name="txt_testo">Тесто в сосиска</string>
+</resources>
